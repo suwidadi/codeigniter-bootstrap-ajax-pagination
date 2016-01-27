@@ -123,7 +123,7 @@ class Page_example extends CI_Controller {
 		$this->ajax_pagination->initialize($config); 
 		$this->data['pagination'] 		= $this->ajax_pagination->create_links();
 		
-		$this->data['records'] 			= $hasil->result();
+		$this->data['records'] 			= $hasil->result(); 
 		$this->data['page_name'] 		= $page_name;
 		
 		$this->load->view('v_example_content',$this->data);

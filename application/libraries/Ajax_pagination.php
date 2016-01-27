@@ -191,7 +191,7 @@ class Ajax_pagination {
          else
             $info .= $this->total_rows;
 
-         $info .= ' of ' . $this->total_rows . ' | ';
+         $info .= ' of ' . $this->total_rows . ' | '; 
 
          // brainsoftmedia.com
          $info .= '</span>';

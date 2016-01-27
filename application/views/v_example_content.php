@@ -14,7 +14,7 @@
  */
 ?>
 <div class="panel-heading">
-                                LIST STUDENTS
+                                LIST STUDENTS 
                             </div>
 							<div id="idRecords-students" class="panel-body">
 								<div class="table-responsive">

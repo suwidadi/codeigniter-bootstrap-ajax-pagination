@@ -17,7 +17,7 @@ var Example = function(){
 			elmUrl 		= $(this).attr('data-url');
 			
 			handleLoadingPage(elmUrl);
-			e.preventDefault();
+			e.preventDefault(); 
 		})
 	}
 	var handleLoadingPage = function(elmurl){

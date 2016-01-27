@@ -33,7 +33,7 @@
 				<div class="col-xs-12 col-md-12 col-lg-12">
 					<div class="panel panel-primary" id="postList-students">
                             <div class="panel-heading">
-                                LIST STUDENTS
+                                LIST STUDENTS 
                             </div>
 							<div id="idRecords-students" class="panel-body">
 								<div class="table-responsive">
