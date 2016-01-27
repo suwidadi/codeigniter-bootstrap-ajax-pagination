@@ -130,15 +130,4 @@ class Page_example extends CI_Controller {
 		
 	}
 	
-	function Record_add(){
-		$faker = Faker\Factory::create();
-		for ($i=1; $i < 101; $i++) {
-			//echo $faker->address, "<br/>";
-			$data = array('id'=>$i,'name'=>$faker->name,'address'=>$faker->address,'email'=>$faker->email);
-			$this->db->insert('tbl_students',$data);
-			echo '<pre>';
-			print_r($data);
-			echo '</pre>';
-		}
-	}
 }
