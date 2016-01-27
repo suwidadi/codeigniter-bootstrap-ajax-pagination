@@ -21,7 +21,7 @@ var Example = function(){
 		})
 	}
 	var handleLoadingPage = function(elmurl){
-		$('#postList-book').load(elmurl,function(data){
+		$('#postList-students').load(elmurl,function(data){
 			handlePagination();
 		})
 	}

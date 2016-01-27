@@ -31,11 +31,11 @@
 			
 			<div class="row">
 				<div class="col-xs-12 col-md-12 col-lg-12">
-					<div class="panel panel-primary" id="postList-book">
+					<div class="panel panel-primary" id="postList-students">
                             <div class="panel-heading">
                                 LIST STUDENTS
                             </div>
-							<div id="idRecords-book" class="panel-body">
+							<div id="idRecords-students" class="panel-body">
 								<div class="table-responsive">
 	                            		<table class="table table-bordered table-hover table-striped">
 	                            			<thead>

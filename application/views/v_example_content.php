@@ -16,7 +16,7 @@
 <div class="panel-heading">
                                 LIST STUDENTS
                             </div>
-							<div id="idRecords-book" class="panel-body">
+							<div id="idRecords-students" class="panel-body">
 								<div class="table-responsive">
 	                            		<table class="table table-bordered table-hover table-striped">
 	                            			<thead>
